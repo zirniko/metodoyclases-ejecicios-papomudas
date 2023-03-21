@@ -1,0 +1,9 @@
+C:\Users\abanyi\source\repos\MetodosYclasesEjercicio1\bin\Debug\MetodosYclasesEjercicio1.exe
+C:\Users\abanyi\source\repos\MetodosYclasesEjercicio1\bin\Debug\MetodosYclasesEjercicio1.pdb
+C:\Users\abanyi\source\repos\MetodosYclasesEjercicio1\obj\Debug\MetodosYclasesEjercicio1.csproj.AssemblyReference.cache
+C:\Users\abanyi\source\repos\MetodosYclasesEjercicio1\obj\Debug\MetodosYclasesEjercicio1.Form1.resources
+C:\Users\abanyi\source\repos\MetodosYclasesEjercicio1\obj\Debug\MetodosYclasesEjercicio1.Properties.Resources.resources
+C:\Users\abanyi\source\repos\MetodosYclasesEjercicio1\obj\Debug\MetodosYclasesEjercicio1.csproj.GenerateResource.cache
+C:\Users\abanyi\source\repos\MetodosYclasesEjercicio1\obj\Debug\MetodosYclasesEjercicio1.csproj.CoreCompileInputs.cache
+C:\Users\abanyi\source\repos\MetodosYclasesEjercicio1\obj\Debug\MetodosYclasesEjercicio1.exe
+C:\Users\abanyi\source\repos\MetodosYclasesEjercicio1\obj\Debug\MetodosYclasesEjercicio1.pdb
